@@ -44,27 +44,3 @@
 	margin-top: 0px !important;
 	margin-left: 0px !important;
 }
-#fb{
-	position: absolute;
-	top: 220px;
-	left: 650px;
-	font-size: 100px;
-}
-#gb{
-	position: absolute;
-	top: 220px;
-	left: 800px;
-	font-size: 100px;
-}
-#ld{
-	position: absolute;
-	top: 220px;
-	left: 950px;
-	font-size: 100px;
-}
-#twit{
-	position: absolute;
-	top: 220px;
-	left: 1100px;
-	font-size: 100px;
-}
