@@ -32,8 +32,8 @@
 	}
 }
 #school{
-	background-color: #F6F6E8 !important;
 	width: 100% !important;
+}
 }
 #college{
 	background-color: #F6F6DC !important;
@@ -43,4 +43,8 @@
 	width: 100% !important;
 	margin-top: 0px !important;
 	margin-left: 0px !important;
+}
+.img-responsive {
+max-width: 90%; /* or to whatever you want here */
+max-height: auto; /* or to whatever you want here */
 }
